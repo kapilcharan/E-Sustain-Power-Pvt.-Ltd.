@@ -1,0 +1,598 @@
+.dropbtn {
+  /* position: relative;
+color: black;
+margin: 2.8rem;
+top: 64rem;
+left: 28rem;
+border: 22.6rem;
+font-size: 8.4rem;
+font-style: italic;
+text-decoration-line: none;
+background: transparent;
+text-decoration: none; */
+color: black;
+    position: absolute;
+    top: 32rem;
+    font-size: 71px;
+    font-style: normal;
+    left: 5rem;
+    text-decoration-line: none;
+ }
+ 
+ /* The container <div> - needed to position the dropdown content */
+ .dropdown {
+  position: relative;
+  display: inline-block;
+ }
+ 
+ /* Dropdown Content (Hidden by Default) */
+ .dropdown-content {
+  position: absolute;
+  /* z-index: 1; */
+  top: 33rem;
+  left: 41rem;
+  font-size: 4rem;
+  width: 20rem;
+  height: 7.5rem;
+  z-index: 1;
+ }
+ 
+ 
+ 
+ /* Links inside the dropdown */
+ .dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+ }
+ 
+ /* Change color of dropdown links on hover */
+ .dropdown-content a:hover {background-color: #ddd;}
+ 
+ /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+ .show {display:block;}
+  
+
+.threedot{
+  display: block;
+}
+#a1{
+  color: black;
+  position: absolute;
+  top: 26rem;
+  font-size: 71px;
+  font-style: normal;
+  left: 6rem;
+  text-decoration-line: none;
+}
+#a2{
+  color: black;
+  position: absolute;
+  top: 26rem;
+  font-size: 71px;
+  font-style: normal;
+  left: 6rem;
+  text-decoration-line: none;
+}
+#a3{
+  color: black;
+  position: absolute;
+  top: 44rem;
+  font-size: 71px;
+  font-style: normal;
+  left: 6rem;
+  text-decoration-line: none;
+}
+#a4{
+  color: black;
+    position: absolute;
+    top: 53rem;
+    font-size: 71px;
+    font-style: normal;
+    left: 6rem;
+    text-decoration-line: none;
+}
+#a5{
+  color: black;
+  position: absolute;
+  top: 64rem;
+  font-size: 71px;
+  font-style: normal;
+  left: 6rem;
+  text-decoration-line: none;
+}
+.line{
+  width: 6rem;
+    background-color: black;
+    height: 8px;
+    margin: 9px 10px;
+    position: relative;
+    top: 4.5rem;
+    z-index: 1;
+    left: 48rem;
+
+}
+
+
+
+#navbarrsp{
+  background-color: #F5F5F5;
+height: 161rem;
+position: absolute;
+top: 0rem;
+width: 100%;
+right: 0;
+border-radius: 92px;
+} 
+
+.h1{
+  position: relative;
+  top: 34rem;
+  width: 100%;
+  background: black;
+  height: 0.1rem;
+}
+.h2{
+  position: relative;
+  top: 40rem;
+  width: 100%;
+  background: black;
+  height: 0.1rem;
+}
+.h3{
+  position: relative;
+  top: 48rem;
+  width: 100%;
+  background: black;
+  height: 0.1rem;
+}
+.h4{
+  position: relative;
+  top: 57rem;
+  width: 100%;
+  background: black;
+  height: 0.1rem;
+}
+
+
+#companyname{
+  width: 12rem;
+  font-size: 35px;
+  position: relative;
+  top: -2rem;
+}
+#div1{
+  position: fixed;
+  top: -0.3rem;
+  background-color: #eee2e2;
+  z-index: 1;
+  box-sizing: border-box;
+  width: 171.4rem;
+  height: 13.5rem;
+  left: 0rem;
+}
+#logo1{
+  position: fixed;
+    left: 12rem;
+    top: 3rem;
+    color: rgb(56, 56, 193);
+}
+.navbar{
+  display: flex;
+  list-style-type: none;
+  position: relative;
+  left: 80.3rem;
+  top:-2rem;
+  color: #F6F1F1;
+}
+
+.a{
+  position: relative;
+  color: black;
+  margin: 2rem;
+  top: 0rem;
+left: -669px;
+  font-size: x-large;
+  font-style: italic;
+  text-decoration-line: none;
+}
+.logoimg1{
+  width: 9.5rem;
+    height: 7rem;
+    position: absolute;
+    margin-left: -169px;
+    margin-top: -24px;
+    border-radius: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.responsive-container-block {
+ position: absolute;
+  display: inline-block;
+
+ 
+  
+}
+.tittle{
+  font-family: 'Poppins', sans-serif;
+    font-size: 4rem;
+    position: relative;
+    top: -1rem;
+    margin-top: 9rem;
+    left: 22rem;
+    MARGIN-LEFT: -11REM;
+}
+  
+ .name{
+  font-size: 2rem;
+    width: 37rem;
+    position: relative;
+    top: 1rem;
+ } 
+ .education{
+  font-size: 1.5rem;
+    width: 49rem;
+    position: relative;
+    top: 1rem;
+    left: 10%;
+ }
+ .aname{
+  font-size: 2rem;
+    width: 37rem;
+    position: relative;
+    top: 1rem;
+ }
+ .aeducation{
+  font-size: 1.5rem;
+    width: 49rem;
+    position: relative;
+    top: 1rem;
+    left: 10%;
+ }
+
+
+
+
+
+
+
+.team-member-img{
+  width: 42rem;
+  color: white;
+  box-shadow: 6px 6px 8px #000000;
+}
+
+
+ 
+
+
+
+
+
+
+ 
+    .imglink1{
+      position: absolute;
+    color: white;
+    box-shadow: 6px 6px 8px #000000;
+    width: 42rem;
+    top: 194rem;
+    left: 15rem;
+    }
+    .tit{
+      position: relative;
+      font-size: 3rem;
+      top: 193rem;
+      width: 100%;
+      left: 10%;
+  
+    }
+   .techname{
+    font-size: 2rem;
+    top: 252rem;
+    position: relative;
+    left: 19rem;
+   }
+
+   .techeducation{
+    font-size: 1.5rem;
+    top: 253rem;
+    position: relative;
+    left: 22rem;
+    width: 30rem;
+   }
+   .social-media1 {
+    position: relative;
+    left: 13.2rem;
+    top: 293rem;}
+    
+ 
+
+
+.imglink2{
+  width: 42rem;
+  position: absolute;
+  /* margin-top: 50.55px; */
+  color: white;
+  box-shadow: 6px 6px 8px #000000;
+  top: 292rem;
+  left: -16rem;
+}
+
+.techname2{
+  font-size: 2rem;
+  top: 313rem;
+  position: relative;
+  left: 14rem;
+ }
+
+ .techeducation2{
+  font-size: 1.5rem;
+    top: 324rem;
+    position: absolute;
+    left: 8rem;
+    width: 36rem;
+ }
+ .social-media2 {
+  position: relative;
+  left: 14.2rem;
+  top: 358rem;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .tit3{
+    position: relative;
+    font-size: 3rem;
+    top: 318rem;
+    margin-left: -5rem;
+    width: 100%;
+    left: 20rem;
+  
+  }
+  .imglink3{
+    position: absolute;
+    margin-top: 362rem;
+    color: white;
+    box-shadow: 6px 6px 8px #000000;
+    width: 42rem;
+    top: -45rem;
+  }
+  .financename{
+    font-size: 2rem;
+    top: 375rem;
+    position: relative;
+    left: 27rem;
+    margin-left: -10rem;
+    width: 27rem;
+   }
+  
+   .financeeducation{
+    font-size: 1.5rem;
+    top: 376rem;
+    position: relative;
+    left: 36rem;
+    width: 48rem;
+    margin-left: -26rem;
+   }
+   .social-media3 {
+    position: relative;
+    top: 426rem;
+    left: 14rem;
+    height: 0rem;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .tit4{
+      position: relative;
+    font-size: 3rem;
+    top: 375rem;
+    margin-left: -41rem;
+    width: 43rem;
+    left: 44rem;
+    
+    }
+  .imglink4{
+    position: absolute;
+    color: white;
+    box-shadow: 6px 6px 8px #000000;
+    width: 42rem;
+    top: 376rem;
+    left: 15rem;
+  }
+  .prname4{
+    font-size: 2rem;
+    top: 434rem;
+    position: relative;
+    left: 42rem;
+    margin-left: -27rem;
+    width: 34rem;
+   }
+  
+   .preducation4{
+    font-size: 1.5rem;
+    top: 435rem;
+    position: relative;
+    left: 33rem;
+    width: 51rem;
+    margin-left: -26rem;
+   }
+   .social-media34 {
+    position: relative;
+    top: 498rem;
+    left: 35rem;
+    height: 0rem;
+    margin-left: 3rem;
+    width: 14rem;
+    }
+ 
+
+
+
+
+
+.imglink5{
+  width: 42rem;
+  position: absolute;
+  /* margin-top: -95px; */
+  color: white;
+  box-shadow: 6px 6px 8px #000000;
+  top: 475rem;
+  left: -16rem;
+}
+
+
+.prname5{
+  top: 497rem;
+    font-size: 2rem;
+    left: 27rem;
+    margin-left: -12rem;
+}
+ 
+.preducation5{
+  
+  top: 497rem;
+  font-size: 1.5rem;
+  left: 22rem;
+}
+.social-media33{
+  top: 591rem;
+  left: -9rem;
+  height: 0rem;
+  position: absolute;
+  display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  .imglink6{
+    width: 42rem;
+    position: absolute;
+    margin-top: 487rem;
+    color: white;
+    box-shadow: 6px 6px 8px #000000;
+    left: -5rem;
+  }
+ .webname{
+  top: 545rem;
+    font-size: 2rem;
+    left: 20rem;
+    margin-left: -3rem;
+
+ }
+.webeducation{
+  
+  top: 546rem;
+  position: relative;
+  font-size: 1.5rem;
+  left: 10rem;
+  width: 39rem;
+  overflow: hidden;
+
+}
+
+.tit5{
+  position: relative;
+    top: 488rem;
+    left: 33rem;
+    margin-top: 14rem;
+    margin-left: -23rem;
+    font-size: 3rem;
+}
+.social-media53{
+  top: 629rem;
+    left: 18rem;
+    height: 0rem;
+    position: absolute;
+    display: flex;
+    padding-bottom: 10rem;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
