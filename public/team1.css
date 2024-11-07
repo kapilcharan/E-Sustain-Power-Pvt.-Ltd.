@@ -623,7 +623,7 @@ position: relative;
 
   .tit5{
     position: relative;
-    top: -130px;
+    top: -4rem;
     font-size: 22px;
   line-height: 28px;
   font-size: xx-large;
@@ -640,10 +640,10 @@ position: relative;
   .imglink6{
   position: relative;
   margin-left: 183px;
-  margin-top: -95px;
+  margin-top: -69px;
+  width: 19rem;
   color: white;
   box-shadow: 6px 6px 8px #000000;
-    width: 19rem;
   }
   .webname{
     position: relative;
