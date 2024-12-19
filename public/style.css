@@ -134,10 +134,10 @@ html{
 .fontpageimg{
     position: absolute;
     width: 105%;
-    top: -12rem;
+    top: 11rem;
     left: -7rem;
     z-index: -1;
-    height: 80rem;
+    height: 57rem;
 }
 .fronpageh1{
     
